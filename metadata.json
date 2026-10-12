@@ -1,0 +1,6 @@
+{
+  "name": "HavenPaws - Pet Adoption",
+  "description": "Find your new best friend with HavenPaws. Browse adorable rescue dogs and cats looking for a loving forever home.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
